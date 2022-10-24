@@ -1,0 +1,14 @@
+betterLinearSearch: 80
+Counts = 37107
+
+betterLinearSearch: 1
+Counts = 37562
+
+sentinelLinearSearch: 50
+Counts = 37106
+
+sentinelLinearSearch: 1
+Counts = 37560
+
+binarySearch: 1
+binarySearch: 1
